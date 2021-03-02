@@ -29,7 +29,7 @@ SOFTWARE.
 *** OPTIONS ***/
 
 	// TITLE OF PAGE
-	$title = "List of Files";
+	$title = "List of Projects";
 	
 	// STYLING (light or dark)
 	$color	= "light";
